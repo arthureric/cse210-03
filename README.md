@@ -23,7 +23,4 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
-* Talitha Brown (talithabrown@byui.edu)
-* Rick Larrabee (lar21035@byui.edu)
-* George Krenk (kre17006@byui.edu)
 * Eric Arthur (art21005@byui.edu)
